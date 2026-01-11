@@ -9,6 +9,6 @@ public class SomeProgram {
     }
     
     public void manageTheSatellite () {
-	// TODO implemetn
+	// TODO implement
     }
 }
